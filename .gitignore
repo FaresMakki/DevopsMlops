@@ -20,9 +20,7 @@ wheels/
 *.egg
 MANIFEST
 
-# # Models
-# models/*.pkl
-# !models/.gitkeep
+
 
 # Environment
 .env
